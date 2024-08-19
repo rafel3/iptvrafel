@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Win Sports Mas
+http://186.148.163.18:8000/play/a043/index.m3u8
+#EXTINF:-1,RCN Mas
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
